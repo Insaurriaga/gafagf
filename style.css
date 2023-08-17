@@ -1,0 +1,16 @@
+body
+{
+    background-color: rgb(180, 17, 153);
+}
+#camera
+{
+    width: 150px;
+    height: 200px;
+    border-color: black;
+}
+#result
+{
+    width: 150px;
+    height: 200px;
+    border-color: black;
+}
